@@ -1,0 +1,127 @@
+.header li{
+    display:inline-block;
+    text-decoration:none;
+    text-align:right;
+    font-family:Verdana,sans-serif,Arial;
+    padding:40px;
+    font-size: 25px;
+}
+.header li a{
+    text-decoration:none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(77, 77, 160);
+}
+.header li a:hover{
+    color:white;
+}
+.header{
+  width:100%;
+  background:rgb(118, 187, 228);
+}
+body{
+  background-color:rgb(14, 158, 184);
+}
+.heading-main{
+    font-size:65px;
+    color:navy;
+    font-weight:bold;
+    font-family:'Courier New', Courier, monospace;
+}
+.categories {
+    font-size:55px;
+    color:rgb(63, 63, 221);
+    font-weight:bold;
+    font-family:'Courier New', Courier, monospace;
+    cursor:pointer;
+    text-decoration:none;
+}
+.categories:hover{
+    color:white;
+}
+.mainpart{
+    width:100%;
+    text-align:center;
+    padding-top:4rem;
+    margin-bottom:9rem;
+}
+.product-row-1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:5rem;
+    flex-wrap: wrap;
+}
+.product-row-1-1{
+    margin-left:3.5rem;
+    padding:1.5rem;
+    background-color:lightskyblue;
+    width: 340px;
+    margin-bottom: 4rem;
+    height:500px;
+}
+button{
+    color:silver;
+    background-color: navy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:1rem;
+    margin-right:1rem;
+}
+.product-description{
+    font-weight:bold;
+    font-size:large;
+}
+.Products{
+    margin-bottom:3rem;
+}
+.head{
+    text-align:center;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+    color:navy;
+    padding:3rem;
+    margin:3rem;
+}
+.product-row-1 img{
+    margin-left:3.8rem;
+}
+h{
+    font-size:48px;
+    font-weight:bold;
+    font-family:'Courier New', Courier, monospace;
+    color:navy;
+    margin:40%;
+}
+.Cart-Wrapper{
+    width:100%;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px;
+    margin-bottom:7rem;
+    margin-left:20%;
+}
+.cart-details{
+    margin-top:5rem;
+    background-color:rgb(35, 201, 201);
+    width:36%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:2rem;
+    padding-bottom:2rem;
+}
+.cart-heading{
+    font-family:'Courier New', Courier, monospace;
+    color:navy;
+    font-size: 45px;
+    margin-left:20%;
+}
+.checkout{
+    margin-left:30%;
+    font-size:20px;
+}
+.total-price{
+    margin-left:32%;
+    color:white;
+    font-size:30px;
+
+}
