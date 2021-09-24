@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sfassg/static/css/main.c510a08d.chunk.css",
+    "main.js": "/sfassg/static/js/main.c0bcea92.chunk.js",
+    "main.js.map": "/sfassg/static/js/main.c0bcea92.chunk.js.map",
+    "runtime-main.js": "/sfassg/static/js/runtime-main.ce2aac78.js",
+    "runtime-main.js.map": "/sfassg/static/js/runtime-main.ce2aac78.js.map",
+    "static/js/2.d6af5552.chunk.js": "/sfassg/static/js/2.d6af5552.chunk.js",
+    "static/js/2.d6af5552.chunk.js.map": "/sfassg/static/js/2.d6af5552.chunk.js.map",
+    "static/js/3.ac9cf53c.chunk.js": "/sfassg/static/js/3.ac9cf53c.chunk.js",
+    "static/js/3.ac9cf53c.chunk.js.map": "/sfassg/static/js/3.ac9cf53c.chunk.js.map",
+    "index.html": "/sfassg/index.html",
+    "static/css/main.c510a08d.chunk.css.map": "/sfassg/static/css/main.c510a08d.chunk.css.map",
+    "static/js/2.d6af5552.chunk.js.LICENSE.txt": "/sfassg/static/js/2.d6af5552.chunk.js.LICENSE.txt",
+    "static/media/TV.7513c47c.jpg": "/sfassg/static/media/TV.7513c47c.jpg",
+    "static/media/eshopping.ef1a6741.jpg": "/sfassg/static/media/eshopping.ef1a6741.jpg",
+    "static/media/vacuum.3e9ce4c3.jpeg": "/sfassg/static/media/vacuum.3e9ce4c3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce2aac78.js",
+    "static/js/2.d6af5552.chunk.js",
+    "static/css/main.c510a08d.chunk.css",
+    "static/js/main.c0bcea92.chunk.js"
+  ]
+}
